@@ -53,10 +53,12 @@
 
 
 ## Output:
+![Screenshot 2024-01-02 203108](https://github.com/deesk13/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/150927063/5dfec4be-6fd0-4f3a-a24d-02a217b34a97)
 
 
-### Name:
-### Register Number: 
+
+### Name:I.Deva Dharshini
+### Register Number:212223240026 
 
 ## RESULT:
  ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
